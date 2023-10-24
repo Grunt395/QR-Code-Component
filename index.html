@@ -12,7 +12,9 @@
         rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png"/>
 
         <!-- Link element to include the Outfit font family -->
-        <link href="https://fonts.googleapis.com/css?family=Outfit" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="./style.css">
 
@@ -20,24 +22,25 @@
     </head>
 
     <body>
+        <div class="container">
+            <main>
+                <div>
+                    <img src="./images/image-qr-code.png" alt="QR Code">
+                </div>
+                <article>
+                    <h2>Improve your front-end skills by building projects</h2>
+                    <p>
+                        Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+                    </p>
+                </article>
+            </main>
 
-        <main>
-            <div>
-                <img src="./images/image-qr-code.png" alt="QR Code">
-            </div>
-            <article>
-                <h2>Improve your front-end skills by building projects</h2>
-                <p>
-                    Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-                </p>
-            </article>
-        </main>
-
-        <footer class="attribution">
-            Challenge by
-            <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by
-            <a href="https://github.com/Grunt395" target="_blank">Grant Lewandowski</a>.
-        </footer>
+            <footer class="attribution">
+                Challenge by
+                <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by
+                <a href="https://github.com/Grunt395" target="_blank">Grant Lewandowski</a>.
+            </footer>
+        </div>
 
     </body>
 </html>
