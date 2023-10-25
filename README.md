@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-uPwftVEbTJ](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-uPwftVEbTJ)
 - Live Site URL: [https://grunt395.github.io/QR-Code-Component/](https://grunt395.github.io/QR-Code-Component/)
 
 ## My process
@@ -58,4 +58,4 @@ I learned greatly about the CSS box model during this project, and I learned how
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Grunt395)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Grunt395](https://www.frontendmentor.io/profile/Grunt395)
